@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.example"
+    version   = "1.0.0">
+
+<name>FACEBOOK SH </name>
+
+<description>
+FACE WEB .
+</description>
+
+<author href="https://www.ingresos.morelos.gob.mx" email="fernando.rodriguez@morelos.gob.mx">
+Fernando Rodriguez
+</author>
+
+<icon src="drawable-ldpi/facebook_icon.png" gap:platform="android" gap:density="ldpi" />
+<icon src="drawable/facebook_icon.png" gap:platform="android" gap:density="mdpi" />
+<icon src="drawable-hdpi/facebook_icon.png" gap:platform="android" gap:density="hdpi" />
+<icon src="drawable-xhdpi/facebook_icon.png" gap:platform="android" gap:density="xhdpi" />
+
+</widget>
