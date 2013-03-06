@@ -63,7 +63,7 @@
 if (!window.FB) {
   window.FB = {
     // use the init method to set these values correctly
-    _apiKey       : 290671167694846,
+    _apiKey       : 550921438261446,
     _authResponse : null,
     _userStatus   : 'unknown', // or 'notConnected' or 'connected'
 

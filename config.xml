@@ -19,4 +19,8 @@ Fernando Rodriguez
 <icon src="drawable-hdpi/facebook_icon.png" gap:platform="android" gap:density="hdpi" />
 <icon src="drawable-xhdpi/facebook_icon.png" gap:platform="android" gap:density="xhdpi" />
 
+<gap:plugin name="FacebookConnect">
+   <param name="APP_ID" value="550921438261446" />
+ </gap:plugin>
+
 </widget>
